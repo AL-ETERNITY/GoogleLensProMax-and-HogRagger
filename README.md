@@ -1,4 +1,5 @@
 # Project Name: Google Lens Pro Max and Hog Ragger
+- This hackathon was organised by IIT Mandi for InterIIT selections
 
 ## How to Run the Repo for Inference
 
